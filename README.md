@@ -1,7 +1,3 @@
-## Open cmd :
-- pip install requests
-- pip install colorama
-# start 
-- python main.py
-
-Shomare fard mored nazar ro bedoone 0 vared mikonid va tamam
+# Форк
+- YouTube: https://youtube.com/@avencores
+- Telegram Channel: https://t.me/avencoresyt
